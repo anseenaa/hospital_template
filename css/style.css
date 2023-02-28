@@ -1,0 +1,27 @@
+/* Author:Anseena A Sharafudeen */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.doc {
+    margin-top: 20%;
+}
+.second {
+    background-color: rgb(170, 232, 252);
+    min-height: 50vh;
+    justify-content: space-evenly;
+}
+.pics {
+    margin-top: -20%;
+}
+.names {
+    margin-bottom: -40px;
+}
+.details {
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+}
+.form {
+    padding-right: 180px;
+}
